@@ -1,0 +1,40 @@
+{
+    "store": "At Thoa Vegetable Wholesaler",
+    "company": "At Thoa Vegetable Trading",
+    "address": "Blk 21 Pasir Panjang Wholesale Centre #01-148 Singapore 110021",
+    "payment_method": "Cash",
+    "gst_no": "123456789A",
+    "receipt_no": "INV-2024-0915",
+    "date": "2024-09-15",
+    "time": "11:42 AM",
+    "items": [
+        {
+            "code": "C001",
+            "name": "Cabbage",
+            "quantity": 10,
+            "unit": "kg",
+            "price": 2.5,
+            "total": 25.0
+        },
+        {
+            "code": "T002",
+            "name": "Tomatoes",
+            "quantity": 5,
+            "unit": "kg",
+            "price": 3.2,
+            "total": 16.0
+        },
+        {
+            "code": "P003",
+            "name": "Potatoes",
+            "quantity": 8,
+            "unit": "kg",
+            "price": 1.8,
+            "total": 14.4
+        }
+    ],
+    "total": 55.4,
+    "gst_included": true,
+    "gst_refund_eligible": false,
+    "served_by": "Cashier A"
+}
